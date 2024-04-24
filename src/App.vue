@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-   Hello Vue ccc! 
+   Hello Vue, Jenkins! 
   </div>
 </template>
 
